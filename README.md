@@ -1,4 +1,4 @@
-[![MasterHead](https://i2.wp.com/mir-s3-cdn-cf.behance.net/project_modules/fs/81bb4b165684019.640b6038d133e.gif)]
+[![MasterHead](https://i2.wp.com/mir-s3-cdn-cf.behance.net/project_modules/fs/81bb4b165684019.640b6038d133e.gif)](https://redwingpodcast.com/us/chill-live-wallpaper-gif.html)
 <h1 align="center">Hi 👋, I'm Hemal Tharaka Eranga</h1>
 <h3 align="center">A passionate Data Analysis</h3>
 <img align="right" alt="Coding" width="400" src="https://media.newyorker.com/photos/660c2b6a6b7b20995be118e3/master/w_1600,c_limit/r44097.gif">
@@ -27,3 +27,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemaltharakaeeranga&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="hemaltharakaeeranga" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemaltharakaeeranga&theme=dark&bg_color=000000&hide_border=true&" alt="hemaltharakaeeranga" /></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
