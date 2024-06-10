@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1t0XQ4NvxxnEXTaR_MWSloSqTSoMpMRtr/view)]
+[![MasterHead](https://drive.google.com/file/d/1t0XQ4NvxxnEXTaR_MWSloSqTSoMpMRtr/view?usp=sharing)]
 <h1 align="center">Hi 👋, I'm Hemal Tharaka Eranga</h1>
 <h3 align="center">A passionate Data Analysis</h3>
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1WLxzcvLsopi6c_wXI5CyPDm_YJ1hCl3l/view">
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **PHP,JAVASCRIPT,C#,R,GO,REACT NATIVE**
 
-- 💬 Ask me about **FLASK,ANDROID,NETBEAN**
+- 💬 Ask me about **FLASK,ANDROID,NETBEANS**
 
 - 📫 How to reach me **tharakaeranga96@gmail.com**
 
