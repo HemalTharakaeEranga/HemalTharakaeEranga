@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @HemalTharakaeEranga
-- 👀 I’m interested in cool coding and data analysis
-- 🌱 I’m currently learning coding and data analysis using coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 👀 I’m interested in cool Coding and Data Analysis
+- 🌱 I’m currently learning Full Stack Developing and Data Analysis using coding
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me tharakaeranga96@gmail.com / www.linkedin.com/in/hemal-eranga-089b58187
+- 😄 Pronouns: Hemal
 - ⚡ Fun fact: ...
 
 <!---
